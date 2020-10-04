@@ -1,6 +1,5 @@
 # V2Ray一键脚本Ubuntu版
 
-网上收集的一键脚本，所有权利归原作者，本人不是程序员，也不懂代码。
 
 一键脚本：
 
@@ -43,3 +42,5 @@ bash <(curl -sL https://raw.githubusercontent.com/hijkpw/scripts/master/goV2.sh)
 5. 卸载命令：
 
 bash <(curl -sL https://raw.githubusercontent.com/hijkpw/scripts/master/ubuntu_install_v2ray.sh) uninstall
+
+# 网上收集的一键脚本，所有权利归原作者，本人不是程序员，也不懂代码。
