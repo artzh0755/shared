@@ -20,15 +20,16 @@ bash <(curl -sL https://raw.githubusercontent.com/artzh0755/shared/main/v2ray.sh
 # 其它
 
 1. 查看配置运行状态/参数：
+
 bash <(curl -sL https://raw.githubusercontent.com/hijkpw/scripts/master/ubuntu_install_v2ray.sh) info
 
 2. v2ray管理命令：
 
-  启动：systemctl start v2ray
+启动：systemctl start v2ray
 
-  停止：systemctl stop v2ray
+停止：systemctl stop v2ray
 
-  重启：systemctl restart v2ray
+重启：systemctl restart v2ray
 
 
 3. 更改端口、alterid最简单的办法：重新运行一键脚本
@@ -39,4 +40,6 @@ bash <(curl -sL https://raw.githubusercontent.com/hijkpw/scripts/master/goV2.sh)
 
 （提示“装不上daemon”不用管，systemctl restart v2ray重新启动v2ray）
 
-5. 卸载命令： bash <(curl -sL https://raw.githubusercontent.com/hijkpw/scripts/master/ubuntu_install_v2ray.sh) uninstall
+5. 卸载命令：
+
+bash <(curl -sL https://raw.githubusercontent.com/hijkpw/scripts/master/ubuntu_install_v2ray.sh) uninstall
