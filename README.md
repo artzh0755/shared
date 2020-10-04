@@ -43,4 +43,5 @@ bash <(curl -sL https://raw.githubusercontent.com/hijkpw/scripts/master/goV2.sh)
 
 bash <(curl -sL https://raw.githubusercontent.com/hijkpw/scripts/master/ubuntu_install_v2ray.sh) uninstall
 
-# 网上收集的一键脚本，所有权利归原作者，本人不是程序员，也不懂代码。
+# 网上收集一键脚本，所有权利归原作者；
+# 如有侵权，请联系删除。
