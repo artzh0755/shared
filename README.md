@@ -4,8 +4,9 @@
 
 bash <(curl -sL https://raw.githubusercontent.com/artzh0755/shared/main/v2ray.sh)
 
-V2ray一键脚本包括如下：
-1.更新系统到最新版
-2.安装bbr加速模块
-3.安装v2ray并设置开机启动
+#V2ray一键脚本包括如下：
+#1.更新系统到最新版；
+#2.安装bbr加速模块；
+#3.安装v2ray并设置开机启动。
 
+#
